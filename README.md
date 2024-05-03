@@ -30,7 +30,8 @@ Este é um sistema de gerenciamento escolar desenvolvido para facilitar a admini
 3. Execute o script `views.sql` para criar as visualizações.
 4. Utilize o arquivo `queries.sql` para realizar consultas e interagir com o banco de dados.
 
-
+## Realizado por:
+Thamires Candida Barbosa
 
 ## Licença
 
